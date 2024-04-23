@@ -1,4 +1,4 @@
-import * as ranges from './resources/cepranges.json'
+import * as ranges from '../resources/cepranges.json'
 
 let ceps = ranges["default"];
 let main = {};

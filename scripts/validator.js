@@ -1,7 +1,7 @@
 const context = "prod2";
 
 import * as cepList from '../resources/prod.json';
-import * as ranges from '../temp/data.json'
+import * as ranges from '../resources/formatedranges.json'
 
 let validos = [];
 let invalidos = [];
